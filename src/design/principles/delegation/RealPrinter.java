@@ -1,4 +1,9 @@
 package design.principles.delegation;
 
-public class Printer {
+/** The delegate class **/
+public class RealPrinter {
+
+    void print(){
+        System.out.println("The delegate");
+    }
 }

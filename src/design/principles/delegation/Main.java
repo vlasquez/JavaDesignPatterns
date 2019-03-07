@@ -1,6 +1,6 @@
 package design.principles.delegation;
 
-public class Tester {
+public class Main {
 
     /**
      * To the outside world it looks like Printer actually prints
