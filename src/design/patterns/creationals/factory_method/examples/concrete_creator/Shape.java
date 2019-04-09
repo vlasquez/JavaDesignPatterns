@@ -1,4 +1,4 @@
-package design.patterns.creationals.factory_method.abstract_creator;
+package design.patterns.creationals.factory_method.examples.concrete_creator;
 
 /**
  * @autor Andrés Velasquez
@@ -6,5 +6,4 @@ package design.patterns.creationals.factory_method.abstract_creator;
  **/
 public interface Shape {
     void draw();
-
 }

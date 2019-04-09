@@ -1,4 +1,4 @@
-package design.patterns.creationals.factory_method.concrete_creator;
+package design.patterns.creationals.factory_method.examples.concrete_creator;
 
 /**
  * @autor Andrés Velasquez
