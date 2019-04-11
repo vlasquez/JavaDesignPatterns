@@ -1,4 +1,4 @@
-package design.patterns.creationals.factory_method.examples.concrete_creator.static_creator;
+package design.patterns.creationals.factory_method.examples.static_creator;
 
 
 /**
