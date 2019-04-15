@@ -8,7 +8,7 @@ import design.patterns.creationals.abstract_factory.example.ShapeFactory;
  * @autor Andrés Velasquez
  * @since 2019-04-11
  **/
- class FactoryProducer {
+public class FactoryProducer {
 
     public static AbstractFactory getFactory(String factoryType) {
         if (factoryType.equalsIgnoreCase("SHAPE")) {
