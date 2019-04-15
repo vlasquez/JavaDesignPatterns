@@ -1,4 +1,4 @@
-package design.patterns.creationals.abstract_factory.shapes;
+package design.patterns.creationals.abstract_factory.example.shapes;
 
 /**
  * @autor Andrés Velasquez

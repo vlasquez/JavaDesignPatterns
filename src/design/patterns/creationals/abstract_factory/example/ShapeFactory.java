@@ -1,9 +1,9 @@
-package design.patterns.creationals.abstract_factory;
+package design.patterns.creationals.abstract_factory.example;
 
-import design.patterns.creationals.abstract_factory.colors.Color;
-import design.patterns.creationals.abstract_factory.shapes.Rectangle;
-import design.patterns.creationals.abstract_factory.shapes.Shape;
-import design.patterns.creationals.abstract_factory.shapes.Square;
+import design.patterns.creationals.abstract_factory.example.colors.Color;
+import design.patterns.creationals.abstract_factory.example.shapes.Rectangle;
+import design.patterns.creationals.abstract_factory.example.shapes.Shape;
+import design.patterns.creationals.abstract_factory.example.shapes.Square;
 
 /**
  * @autor Andrés Velasquez
