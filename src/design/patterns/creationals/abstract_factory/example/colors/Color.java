@@ -1,4 +1,4 @@
-package design.patterns.creationals.abstract_factory.colors;
+package design.patterns.creationals.abstract_factory.example.colors;
 
 /**
  * @autor Andrés Velasquez

@@ -1,8 +1,8 @@
-package design.patterns.creationals.abstract_factory.colors;
+package design.patterns.creationals.abstract_factory.example.colors;
 
-import design.patterns.creationals.abstract_factory.AbstractFactory;
-import design.patterns.creationals.abstract_factory.ColorFactory;
-import design.patterns.creationals.abstract_factory.ShapeFactory;
+import design.patterns.creationals.abstract_factory.example.AbstractFactory;
+import design.patterns.creationals.abstract_factory.example.ColorFactory;
+import design.patterns.creationals.abstract_factory.example.ShapeFactory;
 
 /**
  * @autor Andrés Velasquez
