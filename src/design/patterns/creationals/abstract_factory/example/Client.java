@@ -1,7 +1,6 @@
 package design.patterns.creationals.abstract_factory.example;
 
 import design.patterns.creationals.abstract_factory.example.colors.Color;
-import design.patterns.creationals.abstract_factory.example.colors.FactoryProducer;
 import design.patterns.creationals.abstract_factory.example.shapes.Shape;
 
 /**
