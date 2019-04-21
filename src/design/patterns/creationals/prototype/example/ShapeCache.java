@@ -1,8 +1,8 @@
 package design.patterns.creationals.prototype.example;
 
-import design.patterns.creationals.prototype.example.shapes.Circle;
-import design.patterns.creationals.prototype.example.shapes.Rectangle;
-import design.patterns.creationals.prototype.example.shapes.Square;
+import design.patterns.creationals.prototype.example.shape.Circle;
+import design.patterns.creationals.prototype.example.shape.Rectangle;
+import design.patterns.creationals.prototype.example.shape.Square;
 
 import java.util.Hashtable;
 

@@ -6,7 +6,7 @@ package design.patterns.creationals.factory_method.examples.concrete_creator;
  **/
 public class ShapeFactory {
 
-    // user getShape method to get object of type shape
+    // user getShape method to get object of modelName shape
 
     public Shape getShape(String shapeType) {
         if (shapeType.isEmpty()) {

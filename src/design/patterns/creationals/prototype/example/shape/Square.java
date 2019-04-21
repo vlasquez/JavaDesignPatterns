@@ -1,4 +1,4 @@
-package design.patterns.creationals.prototype.example.shapes;
+package design.patterns.creationals.prototype.example.shape;
 
 import design.patterns.creationals.prototype.example.Shape;
 
