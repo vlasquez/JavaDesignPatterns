@@ -1,8 +1,8 @@
-package design.patterns.structural.adapter.class_inheritance;
+package design.patterns.structural.adapter.object_composition.example_1;
 
-import design.patterns.structural.adapter.class_inheritance.duck.Duck;
-import design.patterns.structural.adapter.class_inheritance.duck.MallardDuck;
-import design.patterns.structural.adapter.class_inheritance.turkey.WildTurkey;
+import design.patterns.structural.adapter.object_composition.example_1.duck.Duck;
+import design.patterns.structural.adapter.object_composition.example_1.duck.MallardDuck;
+import design.patterns.structural.adapter.object_composition.example_1.turkey.WildTurkey;
 
 /**
  * @autor Andrés Velasquez

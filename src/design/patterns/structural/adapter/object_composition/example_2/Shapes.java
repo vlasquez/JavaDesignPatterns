@@ -1,4 +1,4 @@
-package design.patterns.structural.adapter.object_composition;
+package design.patterns.structural.adapter.object_composition.example_2;
 
 /**
  * @autor Andrés Velasquez
