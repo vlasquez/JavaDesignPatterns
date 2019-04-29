@@ -7,6 +7,6 @@ package design.patterns.creationals.factory_method.examples.static_creator;
 public class Rectangle implements Shape {
     @Override
     public void draw() {
-        System.out.println("Print Rectangle");
+        System.out.println("Print Shapes");
     }
 }

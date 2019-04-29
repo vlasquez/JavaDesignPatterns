@@ -9,12 +9,12 @@ import design.patterns.creationals.prototype.example.Shape;
 public class Rectangle extends Shape {
 
     public Rectangle() {
-        type = "Rectangle";
+        type = "Shapes";
     }
 
     @Override
     public void draw() {
-        System.out.println("Inside Rectangle::draw() method");
+        System.out.println("Inside Shapes::draw() method");
     }
 
 
