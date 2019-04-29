@@ -1,13 +1,14 @@
 package design.patterns.structural.adapter.class_inheritance;
 
-import design.patterns.structural.adapter.class_inheritance.duck.Duck;
-import design.patterns.structural.adapter.class_inheritance.turkey.Turkey;
 
 /**
  * @autor Andrés Velasquez
  * @since 2019-04-28
  **/
 
+
+import design.patterns.structural.adapter.class_inheritance.duck.Duck;
+import design.patterns.structural.adapter.class_inheritance.turkey.Turkey;
 
 /**
  * Adapter Pattern using object composition

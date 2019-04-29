@@ -1,4 +1,6 @@
-package design.patterns.structural.adapter.object_composition.turkey;
+package design.patterns.structural.adapter.class_inheritance.turkey;
+
+import design.patterns.structural.adapter.class_inheritance.turkey.Turkey;
 
 /**
  * @autor Andrés Velasquez
