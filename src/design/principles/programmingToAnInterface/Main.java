@@ -2,10 +2,10 @@ package design.principles.programmingToAnInterface;
 
 public class Main {
 
-    public static void main (String[] args){
+    public static void main(String[] args) {
         Computer computer = new Computer();
-        IDisplayModule  dm = new Monitor();
-        IDisplayModule  dm1 = new Projector();
+        IDisplayModule dm = new Monitor();
+        IDisplayModule dm1 = new Projector();
 
         computer.setDisplayModule(dm);
         computer.display();
