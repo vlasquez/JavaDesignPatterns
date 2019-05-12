@@ -1,4 +1,4 @@
-package design.patterns.structural.adapter.object_composition.example_1.duck;
+package design.patterns.structural.adapter.object_implementation.example_1.duck;
 
 /**
  * @autor Andrés Velasquez

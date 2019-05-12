@@ -1,4 +1,4 @@
-package design.patterns.structural.adapter.object_composition.example_1.turkey;
+package design.patterns.structural.adapter.object_implementation.example_1.turkey;
 
 /**
  * @autor Andrés Velasquez
