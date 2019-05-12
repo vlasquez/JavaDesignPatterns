@@ -1,4 +1,4 @@
-package design.patterns.structural.adapter.object_composition.example_1;
+package design.patterns.structural.adapter.object_implementation.example_1;
 
 
 /**
@@ -7,8 +7,8 @@ package design.patterns.structural.adapter.object_composition.example_1;
  **/
 
 
-import design.patterns.structural.adapter.object_composition.example_1.duck.Duck;
-import design.patterns.structural.adapter.object_composition.example_1.turkey.Turkey;
+import design.patterns.structural.adapter.object_implementation.example_1.duck.Duck;
+import design.patterns.structural.adapter.object_implementation.example_1.turkey.Turkey;
 
 /**
  * Adapter Pattern using object composition

@@ -1,4 +1,4 @@
-package design.patterns.structural.adapter.object_composition.example_2;
+package design.patterns.structural.adapter.object_implementation.example_2;
 
 
 /**
