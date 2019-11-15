@@ -10,7 +10,7 @@ public interface CalculatorInterface {
     /**
      * target interface
      **/
-    public double getArea(Rectangle r);
+    double getArea(Rectangle r);
 }
 
 class Calculator implements CalculatorInterface {

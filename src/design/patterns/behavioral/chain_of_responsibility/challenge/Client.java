@@ -2,7 +2,7 @@ package design.patterns.behavioral.chain_of_responsibility.challenge;
 
 public class Client {
 
-    public static void main(String args[]) {
+    public static void main(String[] args) {
         System.out.println("*** Chain of Responsibility Challenge");
 
         ReceiverInterface faxHandler, emailHandler;

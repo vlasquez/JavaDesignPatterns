@@ -1,4 +1,4 @@
-package design.patterns.creationals.singleton.example.double_checked_locking.lazy_evaluation;
+package design.patterns.creationals.singleton.example.lazy_evaluation;
 
 /**
  * @autor Andrés Velasquez

@@ -7,7 +7,7 @@ public class Client {
         this.ic = ic;
     }
 
-    public String interpret(String str) {
+    private String interpret(String str) {
         Expression exp = null;
 
         if (str.contains("Hexadecimal")) {

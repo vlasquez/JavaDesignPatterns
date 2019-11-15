@@ -4,13 +4,10 @@ public class AudioPlayer implements MediaPlayer {
 
     @Override
     public void play(String type, String name) {
-
-        switch (type) {
-            case "mp3":
-                System.out.println("Playing song " + name + " in format: " + type);
-                break;
-            default:
-                System.out.println("Invalid media: " + type + " format not supported");
+        if ("mp3".equals(type)) {
+            System.out.println("Playing song " + name + " in format: " + type);
+        } else {
+            System.out.println("Invalid media: " + type + " format not supported");
         }
     }
 }

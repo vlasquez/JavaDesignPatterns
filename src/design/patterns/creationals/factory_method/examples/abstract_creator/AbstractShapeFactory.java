@@ -4,7 +4,7 @@ package design.patterns.creationals.factory_method.examples.abstract_creator;
  * @autor Andrés Velasquez
  * @since 2019-04-08
  **/
-public abstract class AbstractShapeFactory {
+abstract class AbstractShapeFactory {
 
     protected abstract Shape factoryMethod();
 

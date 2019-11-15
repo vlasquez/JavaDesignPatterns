@@ -36,7 +36,7 @@ public class HomeTheaterFacade {
         amplifier.on();
         amplifier.setDvd(dvdPlayer);
         amplifier.setSurroundSound();
-        amplifier.setVolume(5);
+        amplifier.setVolume();
 
         dvdPlayer.on();
         dvdPlayer.play(movie);

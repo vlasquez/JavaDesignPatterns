@@ -22,8 +22,7 @@ public class BasicCar implements Cloneable {
     public static int setPrice() {
         int price;
         Random r = new Random();
-        int p = r.nextInt(10);
-        price = p;
+        price = r.nextInt(10);
         return price;
     }
 

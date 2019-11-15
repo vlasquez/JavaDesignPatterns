@@ -5,8 +5,6 @@ import design.principles.solid.dependencyInversion.MySqlConnection;
 
 public class PasswordReminder {
 
-    private int dbConnection;
-
     /**
      * MySqlConnection is a low level module(class)
      * our PasswordReminder is a high level module(class)
@@ -16,6 +14,6 @@ public class PasswordReminder {
      */
 
     public PasswordReminder(MySqlConnection dbConnection) {
-        this.dbConnection = dbConnection.connect();
+        int dbConnection1 = dbConnection.connect();
     }
 }

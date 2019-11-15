@@ -1,4 +1,4 @@
-package design.patterns.creationals.singleton.bill_pugh_implementation;
+package design.patterns.creationals.singleton.example.bill_pugh_implementation;
 
 /**
  * @autor Andrés Velasquez

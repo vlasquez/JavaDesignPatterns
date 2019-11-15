@@ -5,8 +5,6 @@ package design.patterns.structural.adapter.object_implementation.example_1.duck;
  * @since 2019-04-28
  **/
 public interface Duck {
-
-    public void quack();
-
-    public void fly();
+    void quack();
+    void fly();
 }

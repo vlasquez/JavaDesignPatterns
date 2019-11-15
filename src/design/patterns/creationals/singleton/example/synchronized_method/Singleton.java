@@ -1,4 +1,4 @@
-package design.patterns.creationals.singleton.synchronized_method;
+package design.patterns.creationals.singleton.example.synchronized_method;
 
 /**
  * @autor Andrés Velasquez

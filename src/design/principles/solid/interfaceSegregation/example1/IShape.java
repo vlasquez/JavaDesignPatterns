@@ -1,15 +1,13 @@
 package design.principles.solid.interfaceSegregation.example1;
 
 public interface IShape {
-    public double area();
-
+    double area();
 }
 
-interface ISolidShape{
-
-    public double volume();
+interface ISolidShape {
+    double volume();
 }
 
-interface IManageShape{
-    public double calculate();
-        }
+interface IManageShape {
+    double calculate();
+}

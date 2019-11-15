@@ -12,10 +12,10 @@ public interface iRestaurant {
      * payOnline()
      * payInPerson()
      */
-    public void acceptOnlineOrder();
-    public void takeTelephoneOrder();
-    public void payOnline();
-    public void walkInCustomerOrder();
-    public void payInPerson();
+    void acceptOnlineOrder();
+    void takeTelephoneOrder();
+    void payOnline();
+    void walkInCustomerOrder();
+    void payInPerson();
 
 }

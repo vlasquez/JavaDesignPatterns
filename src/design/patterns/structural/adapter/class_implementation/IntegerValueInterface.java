@@ -2,7 +2,7 @@ package design.patterns.structural.adapter.class_implementation;
 
 public interface IntegerValueInterface {
 
-    public int getInteger();
+    int getInteger();
 }
 
 class IntegerValue implements IntegerValueInterface {
@@ -30,11 +30,11 @@ class ObjectAdapter {
 
     private IntegerValueInterface myInt;
 
-    public ObjectAdapter(IntegerValueInterface myInt) {
+    ObjectAdapter(IntegerValueInterface myInt) {
         this.myInt = myInt;
     }
 
-    public int getInteger() {
+    int getInteger() {
         return 2 + this.myInt.getInteger();
     }
 }
