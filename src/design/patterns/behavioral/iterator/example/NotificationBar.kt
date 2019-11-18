@@ -1,4 +1,7 @@
-package design.patterns.behavioral.iterator
+package design.patterns.behavioral.iterator.example
+
+import design.patterns.behavioral.iterator.example.Notification
+import design.patterns.behavioral.iterator.example.NotificationCollection
 
 class NotificationBar(val notificationCollection: NotificationCollection) {
 

@@ -1,11 +1,12 @@
-package design.patterns.behavioral.iterator
+package design.patterns.behavioral.iterator.example
 
 interface Iterator {
     fun hasNext(): Boolean
     fun next(): Any
 }
 
-class NotificationIterator(private val notificationList: Array<Notification?>) : Iterator {
+class NotificationIterator(private val notificationList: Array<Notification?>) :
+    Iterator {
     var pos = 0
 
     override fun hasNext(): Boolean {

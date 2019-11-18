@@ -1,4 +1,4 @@
-package design.patterns.behavioral.iterator
+package design.patterns.behavioral.iterator.example
 
 interface Collection {
     fun createIterator(): Iterator
